@@ -1,0 +1,20 @@
+{
+  "name": "wx-vue-preset",
+  "version": "0.1.0",
+  "description": "Vue CLI 3 preset for wx-vue",
+  "keywords": [
+    "vue-cli",
+    "preset",
+    "wx-vue"
+  ],
+  "author": "alex.wei",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex8088/wx-vue-preset.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alex8088/wx-vue-preset/issues"
+  },
+  "homepage": "https://github.com/alex8088/wx-vue-preset#readme"
+}
